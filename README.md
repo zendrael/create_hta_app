@@ -11,7 +11,7 @@ Create HTA applications for windows with this template
 - Done! You have a desktop app with HTML-based interface!
 
 ## Can I have acces to the Operating System?
-Yes! HTA is a special type of app in Windows where you have full access to the system either by using JavaScript or VBScript.
+Yes! HTA is a special type of app in Windows where you have full access to the system either by using JavaScript (ES5) or VBScript.
 
 ## Can I use / access a Database?
 Yes! 
@@ -21,7 +21,7 @@ Both languages are supported, it is your choice which one to use.
 You can also adapt the build script at your will.
 
 ## Can I use BootStrap, JQuery or (name other here)
-Yes! Anything that works for web will work for HTA apps.
+Yes! Anything that works for web (and ES5 if JavaScript) will work for HTA apps.
 
 ## Does this work offline?
 Yes! *IF* you don't load any resource from web, your app will work offline.
