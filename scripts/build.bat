@@ -11,5 +11,13 @@ if exist dev\ (
 
 
 :: copy files
-ECHO Copy files
-copy ..\app.html ..\dev\app.hta
+echo "Copy files"
+copy app.html dev\app.hta
+
+copy src\* dev\
+
+
+
+
+
+echo "Done."
