@@ -27,6 +27,8 @@ Yes! Anything that works for web will work for HTA apps.
 Yes! *IF* you don't load any resource from web, your app will work offline.
 
 ## Some links to learn more about it:
-[https://learn.microsoft.com/en-us/previous-versions/ms536496(v=vs.85)]
-[https://medium.com/@anht_59851/html-application-hta-a-gui-for-your-scripting-on-windows-bfaacf2c3bdd]
-[https://599cd.com/tips/hta/]
+https://learn.microsoft.com/en-us/previous-versions/ms536496(v=vs.85)
+https://medium.com/@anht_59851/html-application-hta-a-gui-for-your-scripting-on-windows-bfaacf2c3bdd
+https://599cd.com/tips/hta/
+https://www.robvanderwoude.com/htaexamples.php
+
